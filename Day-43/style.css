@@ -1,0 +1,20 @@
+body {
+    background-color: #FBF8F1;
+    color: #1C2833;
+    object-position: right;
+    }
+
+hr {
+    border-style: none none dotted none;
+    border-width: 5px;
+    border-color: #E9DAC1;
+    width: 20%;
+    }
+
+h1, h3, a {
+    color: #54BAB9;
+}
+
+img {
+    object-position: right;
+}
